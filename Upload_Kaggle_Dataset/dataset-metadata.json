@@ -1,0 +1,9 @@
+{
+  "title": "Vietnamese License Plate Dataset",
+  "id": "thinnhnhunh/LicensePlateVN",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ]
+}
