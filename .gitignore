@@ -3,3 +3,9 @@ Dataset/
 
 # Bỏ qua thư mục references
 references/
+
+# Bỏ qua thư mục Upload_Kaggle_Dataset
+Upload_Kaggle_Dataset/LicensePlateVN/
+
+# Bỏ qua thư mục references
+Models/
